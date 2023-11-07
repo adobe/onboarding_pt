@@ -1,34 +1,23 @@
-# ベイク処理モード
-ベイク機能にコントロールが強化された専用モードが追加され、ベイク処理時にメッシュを中心軸として回転させることが可能になりました。コンテキストツールバーの「**ベイク処理モード**」をクリックして開始します。
-
+# SVG ファイルサポート
+SVG ファイルを使用してプロジェクトのベクター画像プロパティにアクセスします。このプロパティでは、切り抜き領域、解像度をカスタマイズし、詳細な制御のためにファイルのレイヤーを選択できます。
 ![visual](feature_1.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-# ベイク処理時のビューポートフィードバック
-新しい可視化設定では、ベイク処理中のケージ、ハイポリメッシュ、テクスチャを、直接ビューポートで同時に表示できます。
-
+# 読み込みとドラッグ＆ドロップの改善
+ファイルをドラッグ＆ドロップしてアセットを読み込んだり、必要な場所に (リソーススロット、レイヤー、3D オブジェクト上でも直接) レイヤーや効果を自動的に作成したりできます。
 ![visual](feature_2.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-# ベイカー設定の強化
-ベイカー管理が強化され、解像度、光線距離、ハイポリなどの設定を、異なるテクスチャセット間で同期または分割できます。
-
+# 透明効果のサポート
+プロジェクトで不透明度などの透明効果プロパティを使用します。**ファイル／サンプルを開く／フレンチレストランテーブル**に進んで、新しいサンプルプロジェクトでこれらの機能を確認できます。
 ![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
+[more](https://helpx.adobe.com/jp/substance-3d-painter/interface/shader-settings.html)
 
-# USD サポート
-USD ファイルの形式と属性を使用してプロジェクトを作成します。書き出し時には、元のファイルと互換性のある USD ファイルを出力できます。
-
+# パスの改善
+「パスに沿ってペイント」では、**カスタム接線**を有効にして頂点の接線を編集できるようになりました。また**パスリスト**で「プロパティ」を右クリックして、あるパスから別のパスにプロパティをコピー＆ペーストできるようになりました。
 ![visual](feature_4.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# UV 投影の物理サイズ
-UV 投影を使用する塗りつぶしレイヤーで、マテリアルの埋め込みサイズに基づくスケーリングがサポートされるようになりました。
-
-![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/jp/substance-3d-painter/painting/tool-list/path.html)

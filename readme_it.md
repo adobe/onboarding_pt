@@ -1,34 +1,23 @@
-# Modalità Baking
-La funzionalità di baking ora dispone di una modalità dedicata con comandi avanzati e la possibilità di ruotare intorno alla trama durante il baking. Per iniziare, fai clic su **Modalità Baking** nella barra degli strumenti contestuale.
+# Supporto per file SVG
+Accedi alle proprietà dell'immagine vettoriale tramite file SVG che consentono di personalizzare l'area di ritaglio e la risoluzione e che permettono di selezionare fileâs e livelli per un controllo dettagliato.  
+![visual](feature_1.png)
 
-_ü![visual](feature_1.png)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+# Funzioni di importazione e trascinamento migliorate
+Trascina i file per importare le risorse o creare automaticamente livelli ed effetti, ovunque ti servano â negli slot della risorsa, nei livelli e direttamente sugli oggetti 3D.
+![visual](feature_2.png)
 
-# Feedback dell'area di visualizzazione durante il baking
-Le nuove impostazioni di visualizzazione consentono di visualizzare la struttura, la trama poligonale alta e la texture su cui stai eseguendo il baking direttamente nell'area di visualizzazione, tutto contemporaneamente.
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-_ü![visual](feature_2.png)
+# Supporto della trasparenza
+Usa l'opacità e altre proprietà di trasparenza nel progetto. Puoi osservare il risultato sul tuo lavoro nel nuovo progetto campione: **File > Apri campione > Tavolo ristorante francese**.  
+![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/substance-3d-painter/interface/shader-settings.html)
 
-# Impostazioni avanzate per i baker
-La gestione migliorata dei baker consente di sincronizzare o separare impostazioni come risoluzione, distanza del raggio e trame poligonali alte tra diversi set di texture.
+# Miglioramenti al tracciato
+Colora sul tracciato ora permette di modificare le tangenti di un vertice abilitando **Personalizza tangenti** e copiando e incollando le proprietà da un tracciato a un altro facendo clic con il pulsante destro in **Elenco tracciati**.
+![visual](feature_4.png)
 
-_ü![visual](feature_3.png)
-
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
-
-# Supporto USD
-Crea un progetto utilizzando il formato file USD e i relativi attributi. Al momento dell'esportazione è possibile produrre un file USD compatibile con l'originale.
-
-_ü![visual](feature_4.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# Dimensioni fisiche per proiezione UV
-I livelli di riempimento che utilizzano la proiezione UV ora supportano il ridimensionamento basato sulle dimensioni integrate del materiale.
-
-_ü![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/it/substance-3d-painter/painting/tool-list/path.html)

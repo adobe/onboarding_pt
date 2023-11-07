@@ -1,34 +1,23 @@
-# Modo Conversión
-La acción de convertir ahora tiene un modo dedicado con controles mejorados y la capacidad de girar alrededor de la malla durante la conversión. Haga clic en **Modo Conversión** en la barra de herramientas contextual para comenzar.
+# Soporte para archivos SVG
+Acceda a las propiedades de imagen de vector en su proyecto mediante archivos SVG, que le permiten personalizar el área de recorte, la resolución y seleccionar las capas del archivo para un control detallado.
+![visual](feature_1.png)
 
-_ü![visual](feature_1.png)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+# Acciones Importar y Arrastrar y soltar mejoradas
+Arrastre y suelte archivos para importar activos o crear automáticamente capas y efectos donde los necesite: en ranuras de recursos, capas e incluso directamente en objetos 3D.
+![visual](feature_2.png)
 
-# Informe del área de visualización al convertir
-La nueva configuración de visualización le permite ver la jaula, la malla poligonal alta y la textura que esté convirtiendo en el área de visualización a la vez.
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-_ü![visual](feature_2.png)
+# Soporte para transparencia
+Utilice la opacidad y otras propiedades de transparencia en su proyecto. Puede ver cómo funcionan en el nuevo proyecto de muestra: **Archivo > Abrir muestra > Mesa en un restaurant francés**.
+![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/es/substance-3d-painter/interface/shader-settings.html)
 
-# Configuración mejorada de convertidor
-La gestión de convertidores mejorada le permite sincronizar o dividir ajustes como la resolución, la distancia de rayos y las mallas poligonales altas entre diferentes conjuntos de texturas.
+# Mejoras de ruta
+Pintar por la ruta ahora le permite editar las tangentes de un vértice mediante la habilitación de **Tangentes personalizadas**, así como copiar y pegar propiedades de una ruta a otra haciendo clic con el botón derecho en **Lista de rutas**.
+![visual](feature_4.png)
 
-_ü![visual](feature_3.png)
-
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
-
-# Compatibilidad con USD
-Cree un proyecto con el formato de archivo USD y sus atributos. Cuando vaya a exportar, puede enviar un archivo USD compatible con el archivo original.
-
-_ü![visual](feature_4.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# Tamaño físico para proyección UV
-Las capas de relleno que utilizan la proyección UV ahora admiten la escala basada en el tamaño integrado de los materiales.
-
-_ü![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/es/substance-3d-painter/painting/tool-list/path.html)

@@ -1,34 +1,23 @@
-# Mode Baking
-Le baking dispose désormais d’un mode dédié avec des commandes améliorées et la possibilité de faire pivoter votre maillage pendant le baking. Cliquez sur **Mode Baking** dans la barre d’outils contextuelle pour commencer.
-
+# Prise en charge des fichiers SVG
+Accédez aux propriétés des images vectorielles de vos projets à l’aide des fichiers SVG, qui vous permettent de personnaliser la zone de recadrage et la résolution, et de sélectionner les calques de fichier pour un contrôle plus fin.  
 ![visual](feature_1.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-# Feedback du viewport lors du baking
-Les nouveaux paramètres de visualisation vous permettent de visualiser simultanément la cage, le maillage high poly et la texture que vous bakez, directement dans le viewport.
-
+# Amélioration de l’import et du glisser-déposer
+Glissez-déposez des fichiers pour importer des ressources ou créer automatiquement des calques et des effets là où vous en avez besoin, que ce soit dans des emplacements de ressources, dans des calques, ou même directement sur des objets 3D.
 ![visual](feature_2.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-# Paramètres du baker améliorés
-Une meilleure gestion du baker vous permet de synchroniser ou de fractionner des paramètres tels que la résolution, la distance entre les rayons et le high poly entre différents jeux de textures.
-
+# Prise en charge de la transparence
+Utilisez l’opacité et d’autres propriétés de transparence dans votre projet. Vous pouvez voir leur fonctionnement dans le nouvel exemple de projet : **Fichier > Ouvrir un exemple… > Table de restaurant français**.  
 ![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
+[more](https://helpx.adobe.com/fr/substance-3d-painter/interface/shader-settings.html)
 
-# Prise en charge du format USD
-Créez un projet à l’aide du format de fichier USD et de ses attributs. Lors de l’export, vous pouvez générer un fichier USD compatible avec l’original.
-
+# Améliorations des outils Path
+La fonctionnalité Peindre le long d’un tracé vous permet désormais de modifier les tangentes de vertex en activant **Tangentes personnalisées**, et de copier-coller les propriétés d’un tracé à un autre en effectuant un clic droit sur celles-ci dans la **liste des tracés**.
 ![visual](feature_4.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# Taille physique de la projection UV
-Les calques de remplissage qui utilisent la projection UV prennent désormais en charge la mise à l’échelle en fonction de la taille incorporée des matériaux.
-
-![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/fr/substance-3d-painter/painting/tool-list/path.html)

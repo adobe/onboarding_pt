@@ -1,34 +1,23 @@
-# 烘焙模式
-烘焙现在有一个专用模式，其中增强了控制功能，并且能够在烘焙过程中围绕您的网格旋转。单击上下文工具栏中的 **烘焙模式** 以开始。
-
+# SVG 文件支持
+使用 SVG 文件访问项目中的矢量图像属性，这可让您自定义裁切区域、分辨率以及选择文件的图层以进行详细控制。
 ![visual](feature_1.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-# 烘焙时的视口反馈
-使用全新的可视化设置，您可以在视口中同时查看包裹、高模网格和正在烘焙的纹理。
-
+# 改进了导入和拖放
+拖放文件以导入资源或自动创建图层和效果，无论您在何处需要它们均可满足要求 - 在资源槽、图层中，甚至直接在 3D 对象上。
 ![visual](feature_2.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-# 增强的面包师设置
-借助改进的面包师管理，您可以在不同纹理集之间同步或拆分设置，例如分辨率、射线距离和高模。
-
+# 透明度支持
+在项目中使用不透明度和其他透明度属性。您可以在新的示例项目中查看它们的工作方式：**文件 > 打开示例 > 法国餐厅餐桌**。
 ![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
+[more](https://helpx.adobe.com/cn/substance-3d-painter/interface/shader-settings.html)
 
-# USD 支持
-使用 USD 文件格式及其属性创建项目。需要导出时，您可以输出与原始文件兼容的 USD 文件。
-
+# 路径改进
+通过启用 **自定义切线**，沿路径绘画现在可让您编辑顶点的切线，并且可以通过在 **路径列表** 中右键单击路径来将属性从一个路径复制并粘贴到另一个路径。
 ![visual](feature_4.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# UV 投影的物理尺寸
-使用 UV 投影的填充图层现在支持基于素材嵌入尺寸的缩放。
-
-![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/cn/substance-3d-painter/painting/tool-list/path.html)

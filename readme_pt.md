@@ -1,34 +1,23 @@
-# Modo baking
-Agora, o baking tem um modo dedicado com controles aprimorados e a capacidade de rodar em torno da malha durante o processo. Clique no **Modo baking** na barra de ferramentas contextual para começar.
+# Compatibilidade com arquivos SVG
+Acesse as propriedades de imagens vetoriais no seu projeto usando arquivos SVG, que permitem personalizar a área de corte, a resolução e selecionar as camadas do arquivo para um controle mais detalhado.
+![visual](feature_1.png)
 
-_ü![visual](feature_1.png)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+# Melhoria nos recursos de importação e arrastar e soltar
+Arraste e solte arquivos para importar ativos ou criar camadas e efeitos automaticamente, onde quer que você precise deles, como nos espaços de recursos, nas camadas e até mesmo diretamente nos objetos 3D.
+![visual](feature_2.png)
 
-# Feedback da porta de visualização durante o baking
-As novas configurações de visualização permitem que você visualize a gaiola, a malha de poli alta e a textura em que está executando o baking diretamente na janela de visualização, tudo ao mesmo tempo.
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-_ü![visual](feature_2.png)
+# Compatibilidade com transparência
+Use a opacidade e outras propriedades de transparência no seu projeto. Você pode ver como elas funcionam no novo projeto de amostra: **Arquivo > Abrir amostra > Mesa de restaurante francês**.
+![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/br/substance-3d-painter/interface/shader-settings.html)
 
-# Configurações aprimoradas do baker
-O gerenciamento aprimorado de baker permite sincronizar ou dividir configurações como resolução, distância de raio e poli alta entre diferentes conjuntos de textura.
+# Melhorias de caminho
+Agora, o recurso Pintar ao longo do caminho permite editar as tangentes de um vértice ativando **Tangentes personalizadas** e copiar e colar propriedades de um caminho para outro clicando com o botão direito do mouse na **Lista de caminhos**.
+![visual](feature_4.png)
 
-_ü![visual](feature_3.png)
-
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
-
-# Suporte a USD
-Crie um projeto usando o formato de arquivo USD e seus atributos. Quando quiser exportar, você poderá gerar um arquivo USD que seja compatível com o original.
-
-_ü![visual](feature_4.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# Tamanho físico para projeção UV
-As camadas de preenchimento que usam projeção UV agora suportam dimensionamento com base no tamanho do material incorporado.
-
-_ü![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/br/substance-3d-painter/painting/tool-list/path.html)

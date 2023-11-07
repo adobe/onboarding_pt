@@ -1,34 +1,23 @@
-# Baking mode
-Baking now has a dedicated mode with enhanced controls and the ability to rotate around your mesh during baking. Click **Baking mode** in the contextual toolbar to get started.
-
+# SVG file support
+Access vector image properties in your project using SVG files, which let you customize crop area, resolution, and select the file’s layers for detailed control.  
 ![visual](feature_1.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-# Viewport feedback when baking
-New visualization settings let you view the cage, high poly mesh, and the texture you're baking right in the viewport, all at the same time.
-
+# Improved import and drag & drop
+Drag and drop files to import assets or automatically create layers and effects, wherever you need them – in resource slots, layers, and even directly on 3D objects.
 ![visual](feature_2.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-# Enhanced baker settings
-Improved baker management lets you sync or split settings like resolution, ray distance, and high poly between different Texture Sets.
-
+# Transparency support
+Use opacity and other transparency properties in your project. You can see how they work in the new sample project: **File > Open Sample > French Restaurant Table**.  
 ![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
+[more](https://helpx.adobe.com/substance-3d-painter/interface/shader-settings.html)
 
-# USD support
-Create a project using the USD file format and its attributes. When it's time to export, you can output a USD file that's compatible with the original.
-
+# Path improvements
+Paint along path now lets you edit a vertex's tangents by enabling **Custom Tangents**, and copy and paste properties from one path to another by right-clicking them in the **Paths list**.
 ![visual](feature_4.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# Physical size for UV projection
-Fill layers that use UV projection now support scaling based on materials' embedded size.
-
-![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/tool-list/path.html)

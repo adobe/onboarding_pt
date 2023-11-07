@@ -1,34 +1,23 @@
-# Baking-Modus
-Es gibt nun einen eigenen Baking-Modus mit verbesserten Steuerelementen, in dem Sie Ihr Mesh während des Baking-Vorgangs drehen können. Klicken Sie in der kontextabhängigen Symbolleiste auf **Baking-Modus**, um loszulegen.
-
+# Unterstützung für SVG-Dateien
+Greifen Sie in Ihrem Projekt mit SVG-Dateien auf Vektorgrafik-Eigenschaften zu, die es Ihnen ermöglichen, den Zuschneidebereich und die Auflösung anzupassen und die Dateiebenen für eine detaillierte Kontrolle auszuwählen.  
 ![visual](feature_1.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/baking-109608997.html)
+[more](https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html)
 
-# Viewport-Feedback beim Baking
-Mit den neuen Visualisierungseinstellungen können Sie den Käfig, das High-Poly-Mesh und die Textur beim Baking direkt im Viewport gleichzeitig sehen.
-
+# Import und Drag-and-Drop verbessert
+Importieren Sie Elemente per Drag-and-Drop oder erstellen Sie automatisch Ebenen und Effekte überall, wo Sie sie brauchen: In Ressourcen-Slots, auf Ebenen und sogar direkt auf 3D-Objekten.
 ![visual](feature_2.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/substance-bakers-172818436.html)
+[more](https://helpx.adobe.com/substance-3d-painter/content/importing-assets/import-drag-and-drop.html)
 
-# Verbesserte Baking-Einstellungen
-Durch verbesserte Baker-Verwaltung können Sie Einstellungen wie Auflösung, Strahlenabstand und hohe Polygonzahl zwischen verschiedenen Textursätzen synchronisieren oder aufteilen.
-
+# Transparenzunterstützung
+Verwenden Sie Deckkraft und andere Transparenzeigenschaften in Ihrem Projekt. In diesem Beispielprojekt sehen Sie, wie sie funktionieren: **Datei > Beispiel öffnen > French Restaurant Table**.  
 ![visual](feature_3.png)
 
-[more](https://substance3d.adobe.com/documentation/bake/bakers-settings-172818452.html)
+[more](https://helpx.adobe.com/substance-3d-painter/interface/shader-settings.html)
 
-# USD-Support
-Erstellen Sie ein Projekt. Verwenden Sie dabei das USD-Dateiformat und seine Attribute. Wenn Sie exportieren wollen, können Sie eine USD-Datei ausgeben lassen, die mit dem Original kompatibel ist.
-
+# Verbesserungen an Pfaden
+Während Sie entlang eines Pfades malen, können Sie nun die Tangenten eines Scheitelpunktes bearbeiten, indem Sie **Selbstdefinierte Tangenten** aktivieren, und Eigenschaften mit Rechtsklick in der **Pfadliste** von einem Pfad zu einem anderen kopieren
 ![visual](feature_4.png)
 
-[more](https://substance3d.adobe.com/documentation/spdoc/features-28737551.html)
-
-# Physische Größe für UV-Projektion
-Füllebenen, die UV-Projektion verwenden, unterstützen jetzt die Skalierung auf der Basis der eingebetteten Größe von Materialien.
-
-![visual](feature_5.png)
-
-[more](https://substance3d.adobe.com/documentation/spdoc/uv-projection-180191757.html)
+[more](https://helpx.adobe.com/de/substance-3d-painter/painting/tool-list/path.html)
